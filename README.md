@@ -23,6 +23,7 @@ This remarkable Expense Tracker application was built using the following advanc
 - **Next.js**: A powerful React framework that leverages server-side rendering and enables the creation of high-performance web applications. It provides a solid foundation for building scalable and efficient user interfaces.
 
 - **Firebase**: A cloud-based platform that offers reliable and secure backend services for web and mobile applications. It provides real-time database capabilities, allowing seamless data synchronization and efficient data retrieval.
+
   <img src="https://images7.memedroid.com/images/UPLOADED120/55c2663ae6fbd.jpeg" alt="Image Description" width="300" />
 
 - **Tailwind CSS**: A utility-first CSS framework that streamlines the process of building visually appealing user interfaces. It offers a wide range of pre-built components and styling options, making UI development efficient and consistent.
