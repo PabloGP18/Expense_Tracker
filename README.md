@@ -1,6 +1,6 @@
 # Expense Tracker with Next.js, Firebase, & Tailwind CSS
 
-## application:
+## application: https://expense-tracker-appl.vercel.app/
 
 Welcome to the Expense Tracker application! This powerful tool enables you to efficiently manage your expenses using cutting-edge web technologies. Let's explore the impressive features that await you:
 ![Spending](https://lh4.googleusercontent.com/3gstGzmOqz_cr6-3F8ud8Qi4nTJ7TMq3H5qZ1fA6VMdXogXi0PoysZWIngeQcvIei-GplqGPwzuCdtyf1J_j-GNo_7t3T3MpGpQfE_TGoWURCiqDkdDWimWeUT8oJALJI64Rx6LEwWbjw47DCy0ABCc)
